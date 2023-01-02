@@ -8,6 +8,7 @@
 
 ![Captura25](https://user-images.githubusercontent.com/62777613/210253059-b9b47b72-d50b-485c-babc-796d40182097.PNG)
 
+![Captura26](https://user-images.githubusercontent.com/62777613/210279530-8c0d0658-76a6-4e0f-bfc2-38214d31d6a4.PNG)
 
 
 A new Flutter project.
